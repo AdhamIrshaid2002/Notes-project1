@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container">
+    <h2>@ViewData["Title"]</h2>
+
+    <form asp-action="Login" method="post">
+        <div class="mb-3">
+            <input type="text" name="username" class="form-control" placeholder="User Name" required />
+        </div>
+
+        <div class="mb-3">
+            <input type="password" name="password" class="form-control" placeholder="Password" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">Log</button>
+    </form>
+
+    <p class="error">@ViewBag.Error</p>
+
+    <p class="mt-3 text-center">Don't have an account? <a href="/Auth/Register">Register now</a></p>
+</div>

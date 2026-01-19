@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\",
+  "WorkspaceRootPath": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C871C3D8-0DED-47D2-8E4B-5C72C1D3A72A}|Notes-proj\\Notes-proj.csproj|c:\\users\\adhma\\onedrive - arab american university\\desktop\\student\\web\\notes-project\\notes-proj\\notes-proj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C871C3D8-0DED-47D2-8E4B-5C72C1D3A72A}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|c:\\users\\abedh\\desktop\\x\\notes-project1\\notes-proj\\notes-proj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C871C3D8-0DED-47D2-8E4B-5C72C1D3A72A}|Notes-proj\\Notes-proj.csproj|c:\\users\\adhma\\onedrive - arab american university\\desktop\\student\\web\\notes-project\\notes-proj\\notes-proj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C871C3D8-0DED-47D2-8E4B-5C72C1D3A72A}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|c:\\users\\abedh\\desktop\\x\\notes-project1\\notes-proj\\notes-proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C871C3D8-0DED-47D2-8E4B-5C72C1D3A72A}|Notes-proj\\Notes-proj.csproj|c:\\users\\adhma\\onedrive - arab american university\\desktop\\student\\web\\notes-project\\notes-proj\\notes-proj\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C871C3D8-0DED-47D2-8E4B-5C72C1D3A72A}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|c:\\users\\abedh\\desktop\\x\\notes-project1\\notes-proj\\notes-proj\\models\\appcontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\models\\appcontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|c:\\users\\abedh\\desktop\\x\\notes-project1\\notes-proj\\notes-proj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|c:\\users\\abedh\\desktop\\x\\notes-project1\\notes-proj\\notes-proj\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|c:\\users\\abedh\\desktop\\x\\notes-project1\\notes-proj\\notes-proj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +39,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\appsettings.json",
-              "RelativeDocumentMoniker": "Notes-proj\\appsettings.json",
-              "ToolTip": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\appsettings.json",
-              "RelativeToolTip": "Notes-proj\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-19T20:12:28.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Notes-proj\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\Models\\User.cs",
-              "RelativeToolTip": "Notes-proj\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Notes-proj\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Notes-proj\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T20:09:40.689Z",
+              "WhenOpened": "2026-01-19T20:57:08.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AppContext1.cs",
+              "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Models\\AppContext1.cs",
+              "RelativeDocumentMoniker": "Notes-proj\\Models\\AppContext1.cs",
+              "ToolTip": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Models\\AppContext1.cs",
+              "RelativeToolTip": "Notes-proj\\Models\\AppContext1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:41:48.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Program.cs",
+              "RelativeDocumentMoniker": "Notes-proj\\Program.cs",
+              "ToolTip": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Program.cs",
+              "RelativeToolTip": "Notes-proj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:33:56.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\appsettings.json",
+              "RelativeDocumentMoniker": "Notes-proj\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\appsettings.json",
+              "RelativeToolTip": "Notes-proj\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T20:12:28.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Notes-proj\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Models\\User.cs",
+              "RelativeToolTip": "Notes-proj\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:09:40.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\Models\\Note.cs",
+              "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Models\\Note.cs",
               "RelativeDocumentMoniker": "Notes-proj\\Models\\Note.cs",
-              "ToolTip": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Models\\Note.cs",
               "RelativeToolTip": "Notes-proj\\Models\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T20:07:53.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T20:07:53.128Z"
             }
           ]
         }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\Notes-proj.csproj": {}
+    "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Notes-proj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\Notes-proj.csproj": {
+    "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Notes-proj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\Notes-proj.csproj",
+        "projectUniqueName": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Notes-proj.csproj",
         "projectName": "Notes-proj",
-        "projectPath": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\Notes-proj.csproj",
-        "packagesPath": "C:\\Users\\adhma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adhma\\OneDrive - Arab American University\\Desktop\\Student\\WEB\\Notes-project\\Notes-proj\\Notes-proj\\obj\\",
+        "projectPath": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Notes-proj.csproj",
+        "packagesPath": "C:\\Users\\Abedh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adhma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abedh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

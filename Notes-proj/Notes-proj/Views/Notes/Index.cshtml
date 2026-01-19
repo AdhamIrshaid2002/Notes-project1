@@ -1,0 +1,41 @@
+﻿@model List<Note>
+<form method="get" class="search-box">
+    <input type="text"
+           name="search"
+           placeholder="Find the address of the note..."
+           value="@ViewBag.Search" />
+    <button type="submit">Search</button>
+    <a href="/Notes/Create" class="add-note">＋ Add Note</a>
+
+    @if (!string.IsNullOrEmpty(ViewBag.Search))
+    {
+       
+    }
+</form>
+@if (!Model.Any())
+{
+    <div class="no-results">
+        There are no notes for this address.
+    </div>
+}
+else
+{
+
+<div class="notes-container">
+
+   
+
+    <div class="notes-grid">
+        @foreach (var note in Model)
+        {
+            <div class="note-card">
+                <a href="/Notes/Details/@note.Id" class="note-link">
+                    <div class="note-icon">📁</div>
+                    <div class="note-title">@note.Title</div>
+                </a>
+            </div>
+        }
+    </div>
+
+</div>
+}

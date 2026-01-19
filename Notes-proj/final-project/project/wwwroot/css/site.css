@@ -1,0 +1,97 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background: #121212;
+    color: #fff;
+    font-family: Arial;
+}
+
+.notes-container {
+    padding: 30px;
+}
+
+.add-note {
+    display: inline-block;
+    margin-bottom: 20px;
+    background: #1e88e5;
+    padding: 10px 16px;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+}
+
+.notes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 20px;
+}
+
+.note-card {
+    background: #1f1f1f;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+}
+
+.note-link {
+    text-decoration: none;
+    color: white;
+}
+
+.note-icon {
+    font-size: 50px;
+}
+
+.note-title {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* details page */
+.details-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: #1f1f1f;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+.note-content {
+    margin: 20px 0;
+    color: #ccc;
+}
+
+.actions {
+    display: flex;
+    gap: 15px;
+}
+
+.edit-btn {
+    color: #4caf50;
+    text-decoration: none;
+}
+
+.delete-btn {
+    color: #f44336;
+    text-decoration: none;
+}
+
+.back-btn {
+    display: block;
+    margin-top: 20px;
+    color: #bbb;
+    text-decoration: none;
+}

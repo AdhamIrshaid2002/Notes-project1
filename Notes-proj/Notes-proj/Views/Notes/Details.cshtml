@@ -1,0 +1,22 @@
+﻿@model Note
+
+<div class="details-container">
+
+    <h2>@Model.Title</h2>
+
+    <div class="note-content">
+        @Model.Content
+    </div>
+
+    <div class="actions">
+        <a href="/Notes/Edit/@Model.Id" class="edit-btn">Edit</a>
+        <a href="/Notes/Delete/@Model.Id"
+           class="delete-btn"
+           onclick="return confirm('Are you sure about deleting it?')">
+            Delete
+        </a>
+    </div>
+
+    <a href="/Notes/Index" class="back-btn">← Back</a>
+
+</div>

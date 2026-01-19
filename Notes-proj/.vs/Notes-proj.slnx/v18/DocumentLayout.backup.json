@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|c:\\users\\abedh\\desktop\\x\\notes-project1\\notes-proj\\notes-proj\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|c:\\users\\abedh\\desktop\\x\\notes-project1\\notes-proj\\notes-proj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3528E2BE-1BC3-7FCF-BD61-E11BC8ACEBE9}|Notes-proj\\Notes-proj.csproj|solutionrelative:notes-proj\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Notes-proj\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Notes-proj\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:09:07.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Notes-proj\\Controllers\\AuthController.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppContext1.cs",
               "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Models\\AppContext1.cs",
               "RelativeDocumentMoniker": "Notes-proj\\Models\\AppContext1.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Program.cs",
               "RelativeDocumentMoniker": "Notes-proj\\Program.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\appsettings.json",
               "RelativeDocumentMoniker": "Notes-proj\\appsettings.json",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Models\\User.cs",
               "RelativeDocumentMoniker": "Notes-proj\\Models\\User.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\Abedh\\Desktop\\x\\Notes-project1\\Notes-proj\\Notes-proj\\Models\\Note.cs",
               "RelativeDocumentMoniker": "Notes-proj\\Models\\Note.cs",
